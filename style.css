@@ -111,7 +111,7 @@ html{
     box-sizing:border-box;
     padding:20px;
     
-    background: linear-gradient(to top, rgb(255,45,45) 50%,white 100%); 
+    background: linear-gradient(to top, rgb(157, 255, 45) 50%,white 100%); 
     background-size: 100% 200%;
     transition: all .9s;  
         
@@ -190,7 +190,7 @@ html{
     text-align: justify;
     padding:10px;
     border-radius: 15px;
-    background: linear-gradient(to top, rgb(255,45,45) 50%,white 100%);
+    background: linear-gradient(to top, rgb(17, 230, 17) 50%,white 100%);
     background-size: 100% 200%;
     transition: all .9s;   
 }
