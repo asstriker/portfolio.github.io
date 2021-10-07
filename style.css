@@ -172,7 +172,8 @@ html{
     padding:20px;
 
 }
-.row{
+.row{ 
+    font-family:cursive;
     display:flex; 
     justify-content: space-around;
     flex-wrap:wrap;
